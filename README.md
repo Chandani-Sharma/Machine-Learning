@@ -1,7 +1,11 @@
-Appliance Energy Prediction
+Appliance Energy Prediction:
+
+
 This GitHub repository contains the code and documentation for the Appliance Energy Prediction project. The goal of this project is to accurately predict energy consumption for various household appliances. The project utilizes the Extra Trees Regressor algorithm to analyze a provided dataset.
 
-Key Findings
+Key Findings:
+
+
 After rigorous analysis and model evaluation, the following key findings were discovered:
 
 The untuned Extra Trees Regressor model achieved an impressive result, explaining 66% of the variance present in the test set.
