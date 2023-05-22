@@ -1,6 +1,7 @@
-This GitHub repository contains the code and documentation of following Machine Learning Project:
+This GitHub repository contains the code and documentation of following Machine Learning Projects:
 
 1. Appliance Energy Prediction:
+
 The goal of this project is to accurately predict energy consumption for various household appliances. The project utilizes the 5 algorithms to analyze a provided dataset.
 
 Key Findings:
